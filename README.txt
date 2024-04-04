@@ -100,6 +100,13 @@ Lastly, create a local GIT Repo.
 - Push your REPO to your BitBucket account.
 - Give access to me: mthoney@sheridan.edu
 
+I connected my replit account with my Github account, and the associated Github page for this particular repository is:
+  https://github.com/william-zade/replit-sdev
+
+I am next connecting this to my bitbucket account, and then also pushing my git commits to my own personal git repo on my Home account on my desktop.
+
+
+
 Of course I got carried away and hyper-focused on developing a Python Program that could do what I could do by hand in a few minutes. After several hours, it occured to me that it was unnecessary to the assignment at hand. HOWEVER, as a Software Developer it is good practice for me to get into the habit of documenting what I have done so far so that when I come back to the project (or someone else for that matter) they will have a good idea of what work has already been done, where we are at now, and what still needs to happen (ideally).
 
 
